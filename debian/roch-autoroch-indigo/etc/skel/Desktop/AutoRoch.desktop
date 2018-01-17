@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AutoRoch
+Exec=/opt/ros/indigo/share/autoroch/scripts/start.sh
+Type=Application
+StartupNotify=true
+comment=Auto application for Roch
+#Terminal=true
+Icon=/opt/ros/indigo/share/autoroch/image/sawyer.png

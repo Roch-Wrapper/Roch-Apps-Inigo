@@ -1,0 +1,10 @@
+Package: roch-autoroch-indigo
+Version: 0.0.4
+Architecture: amd64
+Maintainer: NE Automation <code@neautomation.com>
+Installed-Size: 39
+Provides: roch-autoroch
+Section: science
+Priority: optional
+Description: Roch GUI Tool
+ This package provides a GUI tool named AutoRoch for Roch.
